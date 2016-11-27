@@ -1,0 +1,1 @@
+function [cumRegret, simpleRegret] = get
