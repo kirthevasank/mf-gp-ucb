@@ -20,8 +20,9 @@ $ git clone https://github.com/kirthevasank/mf-gp-ucb
 - demo_long.m: This demonstrates how to set all parameters individually in case you
   want to customise them. **(TBD)**
 - To be able to use the software, you will need to construct an
-[mfFunction Object](https://github.com/kirthevasank/mf-gp-ucb/blob/master/mfBO/mfFunction).
-This is quite straightforward. See the examples in demos/functions/.
+[mfFunction
+Object](https://github.com/kirthevasank/mf-gp-ucb/blob/master/mfBO/mfFunction.m).
+This is quite straightforward. See the examples in
 [demos/functions](https://github.com/kirthevasank/mf-gp-ucb/blob/master/demos/functions).
 
 
